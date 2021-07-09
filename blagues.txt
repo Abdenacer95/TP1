@@ -2,12 +2,6 @@ C'est une requête SQL qui entre dans un bar, et le serveur répond : « Il n'y 
 Je voulais te raconter une blague sur les erreurs 404, mais je ne la retrouve plus.
 Désolé, les blagues IPv4 sont épuisées.
 J'ai une blague sur UDP, mais je suis pas sûr que tu la captes.
-Comment appelle-t-on un alligator qui enquête? Un investi-gator.
-La plage dit à l’océan: dire que tout le monde aime l’eau c’est assez vague.
-Qu’est-ce que le livre de mathématiques dit au conseiller d’orientation? J’ai tellement de problèmes.
-Quelle est la couleur préférée d’un chat? Le rrrrrouge.
-Pourquoi un ordinateur voudrait-il se gratter? Parce qu’il a des puces!
-
 200 pour râler à propos de la couleur de l'abri à vélo
 17 se plaignent que l'ampoule est sous GPL
 7 pour déplacer des morceaux de la discussion vers -chat et -advocacy
