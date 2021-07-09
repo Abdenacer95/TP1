@@ -1,4 +1,6 @@
-Aaa
+
+Bbb
+
 
 Pourquoi pas un troll sur les ICMPv6 et le PMTUD ?
 La plage dit à l’océan: dire que tout le monde aime l’eau c’est assez vague.
@@ -27,5 +29,5 @@ Mohameddddddd
 
 200 pour râler à propos de la couleur de l'abri à vélo
 17 se plaignent que l'ampoule est sous GPL
-7 pour déplacer des morceaux de la discussion vers -chat et -advocacy
+
 
