@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+Ligne modifiée
+
 Pourquoi pas un troll sur les ICMPv6 et le PMTUD ?
 La plage dit à l’océan: dire que tout le monde aime l’eau c’est assez vague.
 Pourquoi un ordinateur voudrait-il se gratter? Parce qu’il a des puces!
